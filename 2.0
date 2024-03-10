@@ -1,0 +1,2 @@
+Requirement already satisfied: pydantic in ./myenv/lib/python3.10/site-packages (1.8.2)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in ./myenv/lib/python3.10/site-packages (from pydantic) (4.10.0)
